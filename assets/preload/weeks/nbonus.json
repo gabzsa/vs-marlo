@@ -1,0 +1,31 @@
+{
+	"storyName": "marlo",
+	"difficulties": "easy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		12,
+		12,
+		12
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"peoples",
+			"peoples",
+			[
+				64,
+				64,
+				64
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "teehee"
+}
