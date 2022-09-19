@@ -1,0 +1,16 @@
+local xx = 425.59
+local yy = 529.03
+local xx2 = 986.95
+local yy2 = 526.99
+local ofs = 50
+local followchars = false
+
+function onCreate()
+
+	makeLuaSprite('bg', 'white square', -300, -800)
+	setScrollFactor('bg', 1, 1)
+	scaleObject('bg', 5, 5)
+	
+	addLuaSprite('bg', false)
+	setProperty('bg.antialiasing',false)
+end
